@@ -1,9 +1,10 @@
-## Title: Guidelime_Shiku
+## Title: Guidelime_ShikuTW
 ## Author: shikushiku/Alexei
 ## Version: 0.001-Beta
 ## Interface: 11302
 ## Dependencies: Guidelime
-## Notes: Guides created by Shikushiku/Alexei on Fairbanks
+## Notes: Guides created by Shikushiku/Alexei on Fairbanks and translate to zhTW
+## Notes-zhTW: Shikushiku/Alexei製作的升級指南，zhTW語系版本
 
 Hakurai1-12.lua
 Hakurai12-14.lua
