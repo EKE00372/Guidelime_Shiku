@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 [N 16 - 20 西部荒野]
 [GA Alliance]
 [D 根據 Hakurai 的教學影片製作\\ https://twitch.tv/hakurai \\ 我們的公會正在招募成員！ \\ https://www.guilded.gg/KOABD]
-請注意，只要有經驗，路途中遇到的怪一律都殺掉，一律都殺掉，因為很重要所以說兩遍，否則你可能會在下一步因為缺少經驗而落後！[OC]
+請注意：學了採集就不要錯過礦草，只要有經驗，路過怪一律都殺掉，否則你可能會在下一步因為缺少經驗而落後。見怪就殺，見草就拔！[OC]
 [G52,40.2Moonglade][T]德魯伊傳送到月光林地，學完技能再繼續做任務[A Druid]
 [H]爐石到鐵爐堡
 [G25.2,10.2Ironforge][T]學習牧師技能[A Priest]

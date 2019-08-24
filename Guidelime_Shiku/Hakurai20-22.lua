@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 [N 20 - 22 黑海岸]
 [GA Alliance]
 [D 根據 Hakurai 的教學影片製作\\ https://twitch.tv/hakurai \\ 我們的公會正在招募成員！ \\ https://www.guilded.gg/KOABD]
-請注意，只要有經驗，路途中遇到的怪一律都殺掉，一律都殺掉，因為很重要所以說兩遍，否則你可能會在下一步因為缺少經驗而落後！[OC]
+請注意：學了採集就不要錯過礦草，只要有經驗，路過怪一律都殺掉，否則你可能會在下一步因為缺少經驗而落後。見怪就殺，見草就拔！[OC]
 從這裡開始，只有戰士的職業任務可以和導航一起完成，其他職業看不到這些步驟；如果你不是戰士但想做職業任務，只要暫停導航去做它就行了。[OC]
 [G37,81.4Stormwind City][T]學習職業技能[A Mage][OC]
 [G25.4,78.4Stormwind City][T]學習職業技能[A Warlock][OC]
