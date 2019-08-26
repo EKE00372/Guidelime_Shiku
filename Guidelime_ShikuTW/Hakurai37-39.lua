@@ -117,4 +117,4 @@ Guidelime.registerGuide(
 [V]賣垃圾、修裝、清背包
 飛到 [F 避難谷地]
 [NX 39 - 42 荒蕪之地]
-]],"Hakurai：由Shikushiku製作")
+]],"Hakurai：由Shikushiku製作，中文翻譯版")

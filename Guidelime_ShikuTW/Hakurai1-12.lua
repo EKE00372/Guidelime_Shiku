@@ -231,4 +231,4 @@ Fly back to Westfall[OC]
 [G51.6,12.4Stormwind City]回報[QT1097]
 接受[QA353]
 [NX 12 - 14 洛克莫丹]
-]],"Hakurai：由Shikushiku製作")
+]],"Hakurai：由Shikushiku製作，中文翻譯版")

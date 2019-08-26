@@ -4,7 +4,7 @@ Guidelime.registerGuide(
 [GA Alliance]
 [D 根據 Hakurai 的教學影片製作\\ https://twitch.tv/hakurai \\ 我們的公會正在招募成員！ \\ https://www.guilded.gg/KOABD]
 請注意：學了採集就不要錯過礦草，只要有經驗，路過怪一律都殺掉，否則你可能會在下一步因為缺少經驗而落後。見怪就殺，見草就拔！[OC]
-[G52.8,65.4暴風城 City]綁定爐石：[S 暴風城]
+[G52.8,65.4Stormwind City]綁定爐石：[S 暴風城]
 [G41.4,89.2]在法師區的旅館接受[QA212]
 這個任務有時間限制[OC]
 [G66.2,62.4]飛到[F 藏寶海灣]
@@ -24,7 +24,7 @@ Guidelime.registerGuide(
 尋找冷眼蜥蝪：[QC212]
 注意時間，這個任務只有20分鐘；如果你很快就搞定了，可以在這裡殺一會迅猛龍，時間快到再離開。[OC]
 [H]當任務時限剩下四分鐘時爐石回暴風城。[OC]
-[G41.4,89.2暴風城 City]回報[QT212]
+[G41.4,89.2Stormwind City]回報[QT212]
 [G66.2,62.4]飛到[F 夜色鎮]
 [G38,3.4Stranglethorn Vale]跑到荊棘谷的反抗軍營地[OC]
 [G38,3.4]接受[QA574]
@@ -214,4 +214,4 @@ Guidelime.registerGuide(
 在島的南邊殺狼殺到你有足夠的肉把烹飪練到285為止。[OC]
 殺怪殺到你升上45級為止：[XP45]如果你有一個升級小隊，就和隊友回去納迦的洞穴殺怪吧，他們重生比較快。
 [NX 45 - 47 菲拉斯]
-]],"Hakurai：由Shikushiku製作")
+]],"Hakurai：由Shikushiku製作，中文翻譯版")

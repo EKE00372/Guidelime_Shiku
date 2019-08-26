@@ -83,4 +83,4 @@ Guidelime.registerGuide(
 [G37,41.2][V]賣垃圾並留著魚人眼睛
 [G37.3,43.8]把草藥寄給倉庫分身[OC]
 [NX 西部荒野 16-20]
-]],"Hakurai：由Shikushiku製作")
+]],"Hakurai：由Shikushiku製作，中文翻譯版")

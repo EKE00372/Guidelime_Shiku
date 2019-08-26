@@ -141,4 +141,4 @@ Accept[QA944]
 [G60,36.8][T]學習烹飪
 [G55.6,48.2]飛到[F 湖畔鎮]
 [NX 22 - 25 赤脊山]
-]],"Hakurai：由Shikushiku製作")
+]],"Hakurai：由Shikushiku製作，中文翻譯版")

@@ -70,4 +70,4 @@ Hakurai學了草藥鍊金，所以不提示剝皮，但你如果缺G就學剝皮
 [G9.4,59.6Wetlands]沿著路跑到米奈希爾港，盡量別死，然後開飛行點。
 在北邊的碼頭搭船到黑海岸。[OC]
 [NX 14 - 16 黑海岸]
-]],"Hakurai：由Shikushiku製作")
+]],"Hakurai：由Shikushiku製作，中文翻譯版")

@@ -130,4 +130,4 @@ Finish killing raptors for [QC295]
 飛到鐵爐堡，如果需要就把職業技能學了[OC]
 飛到[F 湖畔鎮][OC]
 [NX 27 - 30 赤脊山]
-]],"Hakurai：由Shikushiku製作")
+]],"Hakurai：由Shikushiku製作，中文翻譯版")
