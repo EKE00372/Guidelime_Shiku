@@ -170,4 +170,4 @@ Guidelime.registerGuide(
 [V]賣垃圾，清背包
 飛到[F 暴風城]
 [NX 47 - 49 辛特蘭]
-]],"Hakurai：由Shikushiku製作")
+]],"Hakurai：由Shikushiku製作，中文翻譯版")
