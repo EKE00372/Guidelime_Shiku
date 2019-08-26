@@ -156,4 +156,4 @@ Acceot [QA79]
 [G72,47.8]接受[QA377]
 [G77.6,44.4]Fly to [F 米奈希爾港]
 [NX 25 - 27 溼地]
-]],"Hakurai：由Shikushiku製作")
+]],"Hakurai：由Shikushiku製作，中文翻譯版")

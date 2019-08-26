@@ -140,4 +140,4 @@ Guidelime.registerGuide(
 確保你至少去過一趟監獄，雖然之後還有一次機會就是了。[OC]
 [G66.2,62.4]飛到[F 濕地]
 [NX 30 - 33 多地]
-]],"Hakurai：由Shikushiku製作")
+]],"Hakurai：由Shikushiku製作，中文翻譯版")

@@ -135,4 +135,4 @@ Guidelime.registerGuide(
 [G33.8,50.8Loch Modan]飛到暴風城或鐵爐堡，學習職業技能、買座騎，或在鐵爐堡做叢林燉肉[OC]
 [V]賣垃圾，清背包，到暴風城去[OC]
 [NX 42 - 45 荊棘谷]
-]],"Hakurai：由Shikushiku製作")
+]],"Hakurai：由Shikushiku製作，中文翻譯版")

@@ -211,4 +211,4 @@ Guidelime.registerGuide(
 自殺回南海鎮虛弱復活，然後等懲罰時間結束[OC][A Warrior]
 [G49.4,52.4]飛到[F 夜色鎮][A Warrior]
 [NX 33 - 36 荊棘谷]
-]],"Hakurai：由Shikushiku製作")
+]],"Hakurai：由Shikushiku製作，中文翻譯版")

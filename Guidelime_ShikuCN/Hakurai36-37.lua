@@ -141,4 +141,4 @@ Guidelime.registerGuide(
 接受[QA1187]
 [G51,29.2Tanaris]跑回加基森，飛到[F 塞拉摩]
 [NX 37 - 39 悲傷沼澤]
-]],"Hakurai：由Shikushiku製作")
+]],"Hakurai：由Shikushiku製作，中文翻譯版")
