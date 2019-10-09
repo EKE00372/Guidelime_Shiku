@@ -17,7 +17,7 @@ Guidelime.registerGuide(
 接受[QA3446]
 [G71,75Un'Goro Crater]接受[QA4289]
 接受[QA4290]
-留意水晶，我們需要紅色、藍色、綠色和黃色的水晶各七個，還有60個安戈洛泥土You also want around 60 Un'Goro soil[OC]
+留意水晶，我們需要紅色、藍色、綠色和黃色的水晶各七個，還有60個安戈洛泥土[OC]
 [G63,68]接受[QA3844]
 水下、靠近小艇殘骸的地方，拾取小背包：[QT3844]
 接受[QA3845]
@@ -37,7 +37,7 @@ Guidelime.registerGuide(
 打開你剛才從水裡撿來的小背包，拾取裡面的物品並接受任務。[OC]
 [G44,8]回報[QT3845]
 自懸賞海報接受[QA4501]
-[G43.8,7.2]回報 the Journal if you looted it from mobs.
+[G43.8,7.2]如果之前已經拾取了就回報任務
 接受[QA3881]
 接受[QA3883]
 [G43.6,7.4]接受[QA3882]
